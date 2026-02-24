@@ -1,8 +1,0 @@
-streamlit
-speechbrain
-torch
-librosa
-pydub
-numpy
-pandas
-matplotlib
